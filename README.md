@@ -1,4 +1,4 @@
-# comparacao-de-metodos-de-primeira-e-segunda-ordem-para-ajuste-de-pesos-em-deep-learning
+# Comparação de métodos de primeira e segunda ordem para ajuste de pesos em deep learning
 Jupyter notebooks para comparação de otimizadores de primeira e segunda ordem para o treinamento de redes neurais.
 
 
